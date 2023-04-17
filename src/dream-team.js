@@ -13,9 +13,9 @@ const { NotImplementedError } = require("../extensions/index.js");
  * createDreamTeam(['Olivia', 1111, 'Lily', 'Oscar', true, null]) => 'LOO'
  *
  */
-function createDreamTeam(members) {
+function createDreamTeam(members)
  
-}
+
 
 module.exports = {
   createDreamTeam,
